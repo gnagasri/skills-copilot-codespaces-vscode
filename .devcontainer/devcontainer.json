@@ -1,11 +1,11 @@
 {
-//Name the configuration
-"name" : "Codespace for configuration"
-"customizations":
-{
-"vscode":
-{
-"extensions" : ["GitHub.Copilot"]
-}
-}
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
 }
